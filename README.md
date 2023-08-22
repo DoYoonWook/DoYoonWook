@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🔭 I’m currently working on server side.
-🌱 I’m currently learning golang.
+- 🔭 I’m currently working on server side.
+- 🌱 I’m currently learning golang.
